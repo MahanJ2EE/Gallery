@@ -1,4 +1,4 @@
-package aero.mahan.ui;
+package main.resources.aero.mahan.ui;
 
 public class BaseServlet {
 
